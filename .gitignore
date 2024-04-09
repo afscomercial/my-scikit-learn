@@ -17,6 +17,7 @@ dist/
 .env
 .venv
 env/
+entorno/
 venv/
 ENV/
 env.bak/

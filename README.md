@@ -13,4 +13,5 @@ python -m pip install scipy
 python -m pip install joblib
 python -m pip install matplotlib
 python -m pip install scikit-learn
+python -m pip install pandas
 ```
